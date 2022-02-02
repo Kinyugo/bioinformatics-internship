@@ -1,14 +1,7 @@
-# Bioinformatics Internship Roadmap
+# Bioinformatics Internship 
 
-This is an overview of my goals and the things I wish to learn and achieve in the course of my internship. 
+Hello 👋 and welcome to my Bioinformatics Internship repo 🚀
 
-## Things To Learn 
-1. Project Management
-2. Team work and collaboration
-3. Biological Data Analysis & Deep Learning
-4. Communication skills 
+I am Kinyugo Maina and I'll be sharing my ICIPE Bioinformatics Internship progress here. Am ecstatic to start my career as research scientist in AI, and I welcome you to be part of this journey.
 
-## Things To Achieve 
-1. Collaborate and network with other scientists
-2. Acquire knowledge on AI application in bioinformatics
-3. Present work done to a scientific community 
+Here is a link to my [roadmap](https://github.com/Kinyugo/bioinformatics-internship/blob/main/roadmap.md).
