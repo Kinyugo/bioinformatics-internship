@@ -4,13 +4,11 @@ Hello 👋 and welcome to my Bioinformatics Internship repo 🚀🌑
 
 I am Kinyugo Maina and I'll be sharing my ICIPE Bioinformatics Internship progress here. Am ecstatic to start my career as research scientist in AI, and I welcome you to be part of this journey.
 
-## Long-term Vision
+## Mission
 To become a reknown research scientist in AI, and contribute to the scientific community. 
 
-## Short-term Vision
-To gain exposure and experience on how Computer Science and AI at large are applicable to Biological Sciences research, specifically Bioinformatics.
-
-
+## Vision
+I want to do research in AI field. I am driven by my curiosity and passion for AI. My main motivator is in knowing that my work will further advancements in other fields as well, that will empower humans everywhere in the world. 
 
 ## Roadmap
 
